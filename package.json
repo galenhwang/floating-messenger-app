@@ -1,0 +1,18 @@
+{
+  "name": "floating-messenger-app",
+  "version": "0.1.0",
+  "description": "A floating Messenger app that remains on top of other apps.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/galenhwang/floating-messenger-app",
+  "keywords": [
+    "Electron"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
