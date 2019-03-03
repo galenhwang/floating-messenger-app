@@ -1,0 +1,10 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+.messenger-window, .messenger-webview, webview {
+  width: inherit;
+  height: inherit;
+}
